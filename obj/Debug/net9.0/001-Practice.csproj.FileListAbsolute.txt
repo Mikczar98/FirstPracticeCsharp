@@ -1,0 +1,15 @@
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\bin\Debug\net9.0\001-Practice.exe
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\bin\Debug\net9.0\001-Practice.deps.json
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\bin\Debug\net9.0\001-Practice.runtimeconfig.json
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\bin\Debug\net9.0\001-Practice.dll
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\bin\Debug\net9.0\001-Practice.pdb
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\obj\Debug\net9.0\001-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\obj\Debug\net9.0\001-Practice.AssemblyInfoInputs.cache
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\obj\Debug\net9.0\001-Practice.AssemblyInfo.cs
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\obj\Debug\net9.0\001-Practice.csproj.CoreCompileInputs.cache
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\obj\Debug\net9.0\001-Practice.sourcelink.json
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\obj\Debug\net9.0\001-Practice.dll
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\obj\Debug\net9.0\refint\001-Practice.dll
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\obj\Debug\net9.0\001-Practice.pdb
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\obj\Debug\net9.0\001-Practice.genruntimeconfig.cache
+C:\Users\mik38\OneDrive\Desktop\Vs Code proj\FullStack\008_Csharp\001-Practice\obj\Debug\net9.0\ref\001-Practice.dll
